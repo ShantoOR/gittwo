@@ -1,4 +1,8 @@
 three
 
+<<<<<<< HEAD
 now main
+=======
+st it is
+>>>>>>> st
 
